@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECTS2024/Wine-Quality-Prediction-with-EC2-instance-and-MLFlow/mlruns/0/f6b8fc3c969f459ca78cbcca438a8403/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b8fc3c969f459ca78cbcca438a8403
+run_name: trusting-mole-266
+run_uuid: f6b8fc3c969f459ca78cbcca438a8403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733886512963
+status: 1
+tags: []
+user_id: hp
