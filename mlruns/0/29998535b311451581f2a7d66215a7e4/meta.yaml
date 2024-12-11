@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECTS2024/Wine-Quality-Prediction-with-EC2-instance-and-MLFlow/mlruns/0/29998535b311451581f2a7d66215a7e4/artifacts
+end_time: 1733888962256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29998535b311451581f2a7d66215a7e4
+run_name: beautiful-sow-214
+run_uuid: 29998535b311451581f2a7d66215a7e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733888940797
+status: 3
+tags: []
+user_id: hp
