@@ -10,7 +10,7 @@ You can check the tutorial [here](https://www.youtube.com/watch?v=pxk1Fr33-L4&li
 
 ### The concepts learned
 - [x] The lifecycle of an End-to-End MLOps project. Key concepts include Modularization, Error, and Artifact logging
-- [x] Logging ML experiments with ML flow and DagsHub ( A GitHub alternative suited for data-related projects)
+- [x] Logging ML experiments with ML flow and DagsHub ( A GitHub alternative suited for data-related projects). Check out [my repo on DagsHub](https://dagshub.com/Jnyambok/Wine-Quality-Prediction-with-EC2-instance-and-MLFlow)
 - [x] Configuring GitHub Actions to workflow and connecting it to an AWS EC2 instance
 - [x] Configuring an AWS ECR for docker images
 - [x] Configuring network rules to allow access to your application
